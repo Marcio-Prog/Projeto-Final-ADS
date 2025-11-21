@@ -23,10 +23,10 @@ Desenvolver um sistema de fidelização de clientes fácil de usar, acessível e
 
 ##  Stack Tecnológico
 
-- **Frontend:** HTML, CSS, JavaScript (ou React)  
-- **Backend:** Python (Flask ou Django)  
-- **Banco de Dados:** SQLite (MVP) ou PostgreSQL  
-- **Hospedagem:** Render, Vercel ou Heroku  
+- **Frontend:** CSS Tailwind
+- **Backend:** Python 
+- **Banco de Dados:** SQLite 
+- **Hospedagem:** AWS  
 - **Extras:** QR Code (opcional)  
 
 ##  Fluxo Básico
@@ -35,13 +35,43 @@ Desenvolver um sistema de fidelização de clientes fácil de usar, acessível e
 2. Cadastra cliente  
 3. Registra compra  
 4. Sistema calcula pontos  
-5. Cliente resgata pontos com desconto  
+5. Cliente resgata pontos com desconto
+6. O administrador visualiza histórico e gera relatórios simples. 
 
 ##  Arquitetura e Artefatos
 
 - MVC (Model-View-Controller)  
 - Business Model Canvas  
-- Personas  
+- Personas
+  
+Personas (3 principais)
+1) João — Proprietário de Farmácia (45 anos)
+
+Perfil: Dono de pequena farmácia de bairro.
+
+Necessidades: Fidelizar clientes recorrentes, controlar promoções simples, ter relatório mensal de uso.
+
+Técnica: Uso básico de computador e smartphone.
+
+Objetivo com o sistema: Reduzir perda de clientes para grandes redes.
+
+2) Maria — Gerente de Loja de Roupas (33 anos)
+
+Perfil: Gerente operacional, responsável por vendas e equipe.
+
+Necessidades: Acelerar checkout, oferecer recompensas por ticket médio mais alto, consultar histórico por cliente.
+
+Técnica: Confortável com ferramentas web.
+
+Objetivo com o sistema: Aumentar ticket médio e retenção.
+
+3) Carlos — Cliente Fiel (28 anos)
+
+Perfil: Comprador frequente, usa smartphone diariamente.
+
+Necessidades: Ver saldo de pontos, resgatar com facilidade e ser notificado de ofertas.
+
+Objetivo com o sistema: Receber descontos/sobres e acumular pontos sem burocracia.
 - Backlog e histórias de usuário  
 - Protótipos (Wireframes)  
 - Diagrama ER  
