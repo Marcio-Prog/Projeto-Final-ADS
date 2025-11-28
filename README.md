@@ -7,7 +7,7 @@ O Fideliza é um sistema web simples e eficiente voltado a pequenos comércios e
 
 ##  Problema
 
-A maioria dos pequenos estabelecimentos não possui ferramentas digitais acessíveis para gerenciar programas de fidelidade, dificultando o relacionamento com seus clientes e a competitividade frente às grandes redes.
+A maioria dos pequenos estabelecimentos não possui ferramentas digitais acessíveis, simples e baratas para gerenciar programas de fidelidade, dificultando o relacionamento com seus clientes e a competitividade frente às grandes redes.
 
 ##  Objetivo
 
@@ -17,7 +17,7 @@ Desenvolver um sistema de fidelização de clientes fácil de usar, acessível e
 ### Objetivos Específicos
 - Cadastro de clientes  
 - Registro de compras com geração de pontos  
-- Resgate de pontos com descontos  
+- Resgate de pontos, descontos e cash back  
 - Painel administrativo com histórico de clientes  
 - Base para integração com futuras soluções  
 
