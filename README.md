@@ -93,7 +93,7 @@ Validação por meio de entrevistas e testes com pelo menos 5 comerciantes locai
 - Kotler & Keller. *Administração de Marketing*, 14ª Ed.  
 - Sebrae. *Pesquisa sobre uso de ferramentas digitais em pequenos negócios* (2022)  
 - Wazlawick, R. *Metodologia de pesquisa para ciência da computação*  
-- [ReactJS](https://reactjs.org)  
-- [Django](https://www.djangoproject.com)  
-- [Flask](https://flask.palletsprojects.com)  
+- [Tailwind CSS](https://tailwindcss.com/) – Framework CSS utilitário para estilização rápida e responsiva.
+- [AWS Services](https://aws.amazon.com/) – Plataforma de nuvem para hospedagem, incluindo EC2 (computação), S3 (armazenamento), RDS (banco de dados) e Lambda (serverless).
+- [FastAPI](https://fastapi.tiangolo.com/) – Framework moderno e rápido para construção de APIs com Python, baseado em Starlette e Pydantic. 
 
