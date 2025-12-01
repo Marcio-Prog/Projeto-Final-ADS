@@ -76,6 +76,7 @@ Objetivo com o sistema: Receber descontos/sobres e acumular pontos sem burocraci
 - Backlog e histórias de usuário  
 - Protótipos (Wireframes)  
 - Diagrama ER  
+<img width="3317" height="3154" alt="diagrama_classe" src="https://github.com/user-attachments/assets/4a2e617d-13db-4db8-873a-834c98d67d6c" />
 
 ##  Validação
 
