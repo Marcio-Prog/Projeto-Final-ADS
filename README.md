@@ -39,7 +39,21 @@ Desenvolver um sistema de fidelização de clientes fácil de usar, acessível e
 
 ##  Arquitetura e Artefatos
 
-- MVC (Model-View-Controller)  
+- MVC (Model-View-Controller)
+  Fluxo MVC resumido para o Fideliza
+
+1) Usuário acessa /registrar-compra
+→ Controller recebe
+→ Valida
+→ Chama Model para gravar compra e calcular pontos
+→ Model retorna resultado
+→ Controller envia para a View “Compra registrada com sucesso”
+
+2) Comerciante acessa /clientes
+→ Controller busca lista no Model
+→ Envia para a View formatar e exibir
+<img width="1536" height="1024" alt="MVC" src="https://github.com/user-attachments/assets/c8d1aba3-9774-473a-ae69-61d0d09f602e" />
+
 - Business Model Canvas
  <img width="2245" height="1587" alt="CANVAS MVP" src="https://github.com/user-attachments/assets/eed35c41-3ad1-4e33-ab7a-d9c80edd6dde" />
  
