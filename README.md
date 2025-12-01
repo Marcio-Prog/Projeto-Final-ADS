@@ -27,7 +27,6 @@ Desenvolver um sistema de fidelização de clientes fácil de usar, acessível e
 - **Backend:** Python 
 - **Banco de Dados:** SQLite 
 - **Hospedagem:** AWS  
-- **Extras:** QR Code (opcional)  
 
 ##  Fluxo Básico
 
