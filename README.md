@@ -41,7 +41,7 @@ Desenvolver um sistema de fidelização de clientes fácil de usar, acessível e
 
 - MVC (Model-View-Controller)  
 - Business Model Canvas
-- <img width="2245" height="1587" alt="CANVAS MVP" src="https://github.com/user-attachments/assets/eed35c41-3ad1-4e33-ab7a-d9c80edd6dde" />
+ <img width="2245" height="1587" alt="CANVAS MVP" src="https://github.com/user-attachments/assets/eed35c41-3ad1-4e33-ab7a-d9c80edd6dde" />
  
 - Personas
   
