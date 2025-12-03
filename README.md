@@ -154,7 +154,10 @@ Objetivo com o sistema: Aumentar retorno dos clientes e incentivar compras ao lo
 2. Como atendente, quero registrar compras rapidamente para agilizar o atendimento.
 3. Como administrador, quero emitir relatórios para acompanhar desempenho.
    
-- **Protótipos (Wireframes)**  
+- **Protótipos (Wireframes)**
+<img width="1026" height="760" alt="Wireframe_1" src="https://github.com/user-attachments/assets/2e0f0ba2-1e15-4c83-8d4d-eaec81f72760" />
+<img width="1029" height="869" alt="Wireframe_2" src="https://github.com/user-attachments/assets/4e607d5c-5bb5-45fe-ac71-87c7ddd5564f" />
+
 - **Diagrama de Classes**  
 <img width="1002" height="833" alt="diagrama" src="https://github.com/user-attachments/assets/a98f2cee-657b-49da-a9e9-4f3b58098b8c" />
 
