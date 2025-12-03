@@ -137,7 +137,20 @@ Necessidades: Criar fidelização para períodos fortes (volta às aulas) e mant
 Técnica: Uso básico de computador; prefere telas simples e diretas.
 
 Objetivo com o sistema: Aumentar retorno dos clientes e incentivar compras ao longo do ano inteiro.
-- Backlog e histórias de usuário  
+- Backlog e histórias de usuário
+## Backlog
+- Registrar cliente
+- Registrar compra
+- Consultar pontos
+- Resgatar recompensas
+- Gerenciar estabelecimentos
+- Emitir relatórios
+
+## Histórias de Usuário
+1. Como cliente, quero consultar meus pontos para saber minhas recompensas.
+2. Como atendente, quero registrar compras rapidamente para agilizar o atendimento.
+3. Como administrador, quero emitir relatórios para acompanhar desempenho.
+   
 - Protótipos (Wireframes)  
 - Diagrama ER  
 <img width="1002" height="833" alt="diagrama" src="https://github.com/user-attachments/assets/a98f2cee-657b-49da-a9e9-4f3b58098b8c" />
