@@ -39,7 +39,7 @@ Desenvolver um sistema de fidelização de clientes fácil de usar, acessível e
 
 ##  Arquitetura e Artefatos
 
-- MVC (Model-View-Controller)
+- **MVC (Model-View-Controller)**
   Fluxo MVC resumido para o Fideliza
 
 1) Usuário acessa /registrar-compra
@@ -57,7 +57,7 @@ Desenvolver um sistema de fidelização de clientes fácil de usar, acessível e
 - Business Model Canvas
  <img width="2245" height="1587" alt="CANVAS MVP" src="https://github.com/user-attachments/assets/eed35c41-3ad1-4e33-ab7a-d9c80edd6dde" />
  
-- Personas
+- **Personas**
   
 Personas 
 1) João — Proprietário de Farmácia (45 anos)
@@ -137,7 +137,7 @@ Necessidades: Criar fidelização para períodos fortes (volta às aulas) e mant
 Técnica: Uso básico de computador; prefere telas simples e diretas.
 
 Objetivo com o sistema: Aumentar retorno dos clientes e incentivar compras ao longo do ano inteiro.
-- Backlog e histórias de usuário
+- **Backlog e histórias de usuário**
  Backlog
 - Registrar cliente
 - Registrar compra
@@ -151,8 +151,8 @@ Objetivo com o sistema: Aumentar retorno dos clientes e incentivar compras ao lo
 2. Como atendente, quero registrar compras rapidamente para agilizar o atendimento.
 3. Como administrador, quero emitir relatórios para acompanhar desempenho.
    
-- Protótipos (Wireframes)  
-- Diagrama ER  
+- **Protótipos (Wireframes)**  
+- **Diagrama ER**  
 <img width="1002" height="833" alt="diagrama" src="https://github.com/user-attachments/assets/a98f2cee-657b-49da-a9e9-4f3b58098b8c" />
 
 ##  Validação
