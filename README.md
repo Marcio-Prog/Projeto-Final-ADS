@@ -1,4 +1,4 @@
-# Projeto-Final-ADS
+# Documentação Projeto Final ADS_Senac 2025/2
 # Fideliza – Sistema Web de Gerenciamento de Pontos e Descontos
 
 ##  Resumo do Projeto
