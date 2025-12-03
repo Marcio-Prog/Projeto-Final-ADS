@@ -17,7 +17,7 @@ Desenvolver um sistema de fidelização de clientes fácil de usar, acessível e
 ### Objetivos Específicos
 - Cadastro de clientes  
 - Registro de compras com geração de pontos  
-- Resgate de pontos, descontos ou cash back  
+- Resgate de pontos, descontos ou cashback  
 - Painel administrativo com histórico de clientes  
 - Base para integração com futuras soluções  
 
