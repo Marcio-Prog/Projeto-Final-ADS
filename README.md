@@ -155,7 +155,7 @@ Objetivo com o sistema: Aumentar retorno dos clientes e incentivar compras ao lo
 3. Como administrador, quero emitir relatórios para acompanhar desempenho.
    
 - **Protótipos (Wireframes)**  
-- **Diagrama ER**  
+- **Diagrama de Classes**  
 <img width="1002" height="833" alt="diagrama" src="https://github.com/user-attachments/assets/a98f2cee-657b-49da-a9e9-4f3b58098b8c" />
 
 ##  Validação
