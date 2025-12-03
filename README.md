@@ -59,7 +59,7 @@ Desenvolver um sistema de fidelização de clientes fácil de usar, acessível e
  
 - Personas
   
-Personas (3 principais)
+Personas 
 1) João — Proprietário de Farmácia (45 anos)
 
 Perfil: Dono de pequena farmácia de bairro.
@@ -138,7 +138,7 @@ Técnica: Uso básico de computador; prefere telas simples e diretas.
 
 Objetivo com o sistema: Aumentar retorno dos clientes e incentivar compras ao longo do ano inteiro.
 - Backlog e histórias de usuário
-## Backlog
+ Backlog
 - Registrar cliente
 - Registrar compra
 - Consultar pontos
@@ -146,7 +146,7 @@ Objetivo com o sistema: Aumentar retorno dos clientes e incentivar compras ao lo
 - Gerenciar estabelecimentos
 - Emitir relatórios
 
-## Histórias de Usuário
+ Histórias de Usuário
 1. Como cliente, quero consultar meus pontos para saber minhas recompensas.
 2. Como atendente, quero registrar compras rapidamente para agilizar o atendimento.
 3. Como administrador, quero emitir relatórios para acompanhar desempenho.
