@@ -88,7 +88,7 @@ Necessidades: Ver saldo de pontos, resgatar com facilidade e ser notificado de o
 
 Objetivo com o sistema: Receber descontos/sobres e acumular pontos sem burocracia.
 
-4)Ana Paula — Proprietária de Salão de Beleza (38 anos)
+4) Ana Paula — Proprietária de Salão de Beleza (38 anos)
 
 Perfil: Dona de um salão pequeno com atendimento personalizado.
 
@@ -98,7 +98,7 @@ Técnica: Usa bem redes sociais e ferramentas simples no celular.
 
 Objetivo com o sistema: Aumentar a frequência mensal das clientes e criar promoções específicas.
 
-5)Roberto — Dono de Lanchonete (47 anos)
+5) Roberto — Dono de Lanchonete (47 anos)
 
 Perfil: Proprietário de uma lanchonete movimentada em uma avenida.
 
@@ -108,7 +108,7 @@ Técnica: Conhecimento intermediário de informática; utiliza computador para p
 
 Objetivo com o sistema: Aumentar vendas durante horários de menor movimento e estimular fidelidade.
 
-6)Fernanda — Cliente Esporádica (31 anos)
+6) Fernanda — Cliente Esporádica (31 anos)
 
 Perfil: Costuma comprar ocasionalmente, mas gosta de promoções.
 
@@ -118,7 +118,7 @@ Técnica: Usa smartphone diariamente, mas prefere interfaces simples.
 
 Objetivo com o sistema: Aproveitar oportunidades e economizar quando for conveniente.
 
-7)Diego — Atendente de Loja (26 anos)
+7) Diego — Atendente de Loja (26 anos)
 
 Perfil: Funcionário responsável pelo atendimento direto no caixa.
 
@@ -128,7 +128,7 @@ Técnica: Experiência moderada com ferramentas de loja e PDV.
 
 Objetivo com o sistema: Agilizar atendimento e facilitar adesão dos clientes ao programa.
 
-8)Sônia — Proprietária de Papelaria (54 anos)
+8) Sônia — Proprietária de Papelaria (54 anos)
 
 Perfil: Dona de uma papelaria tradicional no bairro.
 
