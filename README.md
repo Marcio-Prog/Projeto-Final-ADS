@@ -3,7 +3,7 @@
 
 ##  Resumo do Projeto
 
-O Fideliza é um sistema web simples e eficiente voltado a pequenos comércios e farmácias que desejam implementar um programa de fidelidade com baixo custo. O sistema permite cadastrar clientes, registrar compras, acumular e resgatar pontos ou descontos, além de aplicar descontos personalizados.
+O Fideliza é um sistema web simples e eficiente voltado a pequenos comércios e farmácias que desejam implementar um programa de fidelidade com baixo custo. O sistema permite cadastrar clientes, registrar compras, acumular e resgatar pontos, além de aplicar descontos personalizados.
 
 ##  Problema
 
