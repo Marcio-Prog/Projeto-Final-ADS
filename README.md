@@ -87,6 +87,56 @@ Perfil: Comprador frequente, usa smartphone diariamente.
 Necessidades: Ver saldo de pontos, resgatar com facilidade e ser notificado de ofertas.
 
 Objetivo com o sistema: Receber descontos/sobres e acumular pontos sem burocracia.
+
+4)Ana Paula — Proprietária de Salão de Beleza (38 anos)
+
+Perfil: Dona de um salão pequeno com atendimento personalizado.
+
+Necessidades: Fidelizar clientes que fazem serviços recorrentes (corte, escova, manicure), oferecer bônus por frequência e acompanhar o retorno das clientes.
+
+Técnica: Usa bem redes sociais e ferramentas simples no celular.
+
+Objetivo com o sistema: Aumentar a frequência mensal das clientes e criar promoções específicas.
+
+5)Roberto — Dono de Lanchonete (47 anos)
+
+Perfil: Proprietário de uma lanchonete movimentada em uma avenida.
+
+Necessidades: Recompensar clientes diários, controlar cupons de desconto e evitar perda de clientes para concorrentes próximos.
+
+Técnica: Conhecimento intermediário de informática; utiliza computador para pedidos e fechamento diário.
+
+Objetivo com o sistema: Aumentar vendas durante horários de menor movimento e estimular fidelidade.
+
+6)Fernanda — Cliente Esporádica (31 anos)
+
+Perfil: Costuma comprar ocasionalmente, mas gosta de promoções.
+
+Necessidades: Ser avisada quando há promoções, visualizar benefícios que realmente valem a pena e ter clareza nos resgates.
+
+Técnica: Usa smartphone diariamente, mas prefere interfaces simples.
+
+Objetivo com o sistema: Aproveitar oportunidades e economizar quando for conveniente.
+
+7)Diego — Atendente de Loja (26 anos)
+
+Perfil: Funcionário responsável pelo atendimento direto no caixa.
+
+Necessidades: Sistema rápido, fácil de usar durante o atendimento e que permita cadastrar novos clientes sem complicação.
+
+Técnica: Experiência moderada com ferramentas de loja e PDV.
+
+Objetivo com o sistema: Agilizar atendimento e facilitar adesão dos clientes ao programa.
+
+8)Sônia — Proprietária de Papelaria (54 anos)
+
+Perfil: Dona de uma papelaria tradicional no bairro.
+
+Necessidades: Criar fidelização para períodos fortes (volta às aulas) e manter clientes durante meses de baixa demanda.
+
+Técnica: Uso básico de computador; prefere telas simples e diretas.
+
+Objetivo com o sistema: Aumentar retorno dos clientes e incentivar compras ao longo do ano inteiro.
 - Backlog e histórias de usuário  
 - Protótipos (Wireframes)  
 - Diagrama ER  
