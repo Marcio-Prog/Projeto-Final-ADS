@@ -43,7 +43,7 @@ Desenvolver um sistema de fidelização de clientes fácil de usar, acessível e
   
   Fluxo MVC resumido para o Fideliza
 
-1) Usuário acessa /registrar-compra
+1) Comerciante acessa /registrar-compra
 → Controller recebe
 → Valida
 → Chama Model para gravar compra e calcular pontos
